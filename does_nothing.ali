@@ -1,0 +1,13 @@
+V "GNAT Lib v4.9"
+M P W=b
+P ZX
+
+RN
+
+U does_nothing%b	does_nothing.adb	ef8fcd26 NE OO SU
+
+D does_nothing.adb	20180329011734 ef8fcd26
+D system.ads		20160213141829 90249111
+X 1 does_nothing.adb
+1U11*Does_Nothing 1b11 4l5 4t17
+
